@@ -1,4 +1,12 @@
 return {
+  -- {
+  --   "williamboman/mason.nvim",
+  --   opts = {
+  --     ensure_installed = {
+  --       "djlint",
+  --     },
+  --   }
+  -- },
   {
     "stevearc/conform.nvim",
     opts = {
